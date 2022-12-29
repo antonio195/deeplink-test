@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Deep Links</string>
+    <string name="product_name">Product name</string>
+    <string name="product_price">Product price</string>
+    <string name="product_description">Product description</string>
+    <string name="product_barcode">Product barcode</string>
+    <string name="share_product">Share Product</string>
+    <string name="edit_product">Edit Product</string>
+</resources>
